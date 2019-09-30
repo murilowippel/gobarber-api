@@ -1,1 +1,1 @@
-# gobarber-api
+# gobarber-apis
